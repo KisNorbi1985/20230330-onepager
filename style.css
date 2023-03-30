@@ -107,7 +107,7 @@ button{
 .div div{
     display: inline-block;
 }
-@media screen and (min-width:640px) {
+@media screen and (min-width:1200px) {
    .header{
         margin: 0;
         padding-bottom: 150px;
@@ -115,5 +115,14 @@ button{
     .about p{
         column-count: 2;
         text-align: justify;
+    }
+    .tiles{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding: 0 50px;
+    }
+    }
+    .tiles p{
+        margin-bottom: 30px;
     }
 }
