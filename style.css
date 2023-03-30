@@ -112,4 +112,8 @@ button{
         margin: 0;
         padding-bottom: 150px;
 }
+    .about p{
+        column-count: 2;
+        text-align: justify;
+    }
 }
