@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:rgb(34, 36, 36);
+}
+.header{
+    background-image:url(pics/head.jpg);
+    color: white;
+    text-align: center;
+    margin:0 15px;
+    padding:80px 10px;
+}
+.header p{
+    margin: 20px;
+    line-height: 150%;
+}
+button{
+    width: 120px;
+    height: 50px;
+    background:rgb(34, 36, 36);
+    color: white;
+}
+.about{
+    background: lightgray;
+    padding: 45px 15px;
+    text-align: center;
+}
+.about p{
+    margin: 40px 0;
+    line-height: 150%;
+}
