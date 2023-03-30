@@ -107,3 +107,9 @@ button{
 .div div{
     display: inline-block;
 }
+@media screen and (min-width:640px) {
+   .header{
+        margin: 0;
+        padding-bottom: 150px;
+}
+}
