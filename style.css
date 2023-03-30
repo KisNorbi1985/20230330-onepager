@@ -61,3 +61,31 @@ button{
 .whom p{
     padding:40px 15px ;
 }
+.contact{
+    text-align: center;
+}
+.contact .con{
+    padding: 40px;
+    background: rgb(0, 132, 255);
+    color: white;
+}
+.con h2{
+    padding: 10px 0 0 0;
+}
+.con p{
+    padding:40px 15px ;
+}
+.contact .adress{
+    background: orangered;
+    padding: 40px;
+}
+.adress h2{
+    padding: 10px 0 0 0;
+}
+.adress p{
+    padding:40px 15px ;
+}
+.adress a{
+    text-decoration: none;
+    color: darkslategrey;
+}
